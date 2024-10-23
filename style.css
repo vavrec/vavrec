@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Montserrat", sans-serif;
+    height: 100vh;
+    word-spacing: 1.5px;
+}
+
+
+#landing-section {
+    background-color: hsl(0 0% 99%);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.greeting {
+    /* font-weight: 600; */
+    font-size: 1.5em;
+}
+
+.greeting::before {
+    background-color: #000;
+    content: "";
+    display: inline-block;
+    height: 1px;
+    position: relative;
+    vertical-align: middle;
+    width: 1em;
+    margin-right: 0.5em;
+}
+
+#welcome-text {
+    display: flex;
+    flex-direction: column;
+    padding: 1em;
+
+}
+
+.red-text {
+    color: rgb(255, 2, 62);
+}
+
+.name {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    font-size: 3em;
+    font-weight: 700;
+}
+
+.description {
+    font-weight: 200;
+}
