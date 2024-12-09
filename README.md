@@ -1,4 +1,26 @@
-## Hi there 👋
+# Hi there 👋
+
+My name is David, and I am a Software Engineer located in Czechia.
+
+## 🔭 I’m currently working on 
+
+### [Kotlin TODO List](https://github.com/vavrec/kotlin-todo-list) 
+
+A simple project that demonstrates my Kotlin skills.
+
+### [Personal Web Page](https://github.com/vavrec/vavrec)
+
+My personal web page, where I use simple HTML, JavaScript, and CSS. 
+
+## 🌱 I’m currently learning
+- Kotlin
+- Java
+- Docker 
+- Kubernetes
+
+## 📫 How to reach me
+
+LinkedIn: [David Vavrecka](https://www.linkedin.com/in/david-vavrecka)
 
 <!--
 **vavrec/vavrec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
